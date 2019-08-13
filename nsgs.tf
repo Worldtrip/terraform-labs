@@ -1,3 +1,5 @@
+# tset
+
 */resource "azurerm_resource_group" "nsgs" {
    name         = "NSGs"
    location     = "${var.loc}"
